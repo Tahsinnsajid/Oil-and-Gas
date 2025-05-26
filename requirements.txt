@@ -4,3 +4,4 @@ openai
 gspread
 google-auth
 oauth2client
+oauth2client==4.1.3
