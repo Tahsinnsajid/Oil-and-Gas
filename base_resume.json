@@ -1,0 +1,14 @@
+{
+  "name": "Your Name",
+  "email": "your.email@example.com",
+  "phone": "(123) 456-7890",
+  "skills": ["Python", "EHS Management", "OSHA Compliance"],
+  "experience": [
+    {
+      "title": "Job Title",
+      "company": "Company Name",
+      "duration": "Jan 2020 - Present",
+      "description": "Job responsibilities..."
+    }
+  ]
+}
