@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: oil-and-gas-script
+    env: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python deepseek_python_20250525_a1b681.py"
+    plan: free
